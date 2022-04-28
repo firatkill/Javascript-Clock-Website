@@ -1,0 +1,17 @@
+body {
+  box-sizing: border-box;
+  background-color: rgb(0, 0, 0);
+  color: rgb(99, 209, 249);
+}
+.container {
+  display: flex;
+  font-family: orbitron;
+  letter-spacing: 0.5vh;
+  width: 50%;
+  font-size: 4vw;
+  position: absolute;
+  left: 25vw;
+  top: 25vh;
+
+  width: 100%;
+}
